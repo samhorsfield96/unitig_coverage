@@ -15,7 +15,7 @@
 #include <experimental/filesystem>
 
 // bifrost header
-#include <bifrost/ColoredCDBG.hpp>
+#include "bifrost/ColoredCDBG.hpp"
 
 // robinhood hashing header
 #include "robin_hood.h"
