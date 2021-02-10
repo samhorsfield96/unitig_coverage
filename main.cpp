@@ -124,4 +124,6 @@ int main(int argc, char *argv[]) {
         outfile << unitig.first << "\t" << unitig.second << "\n";
     }
     outfile.close();
+
+    return 0;
 }
